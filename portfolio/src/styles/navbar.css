@@ -1,0 +1,31 @@
+:root {
+  --dark-blue: #32474d;
+  --light-blue: #849ca2;
+  --dark-brown: #3d2a19;
+  --brown: #3d2a19;
+  --light-brown: #b89e86;
+  --white: #eff8f9;
+}
+
+.navbar {
+  display: grid;
+  grid-template-columns: 25% 25% 25% 25%;
+  width: 100%;
+  position:fixed;
+}
+
+.navbar a {
+  border-right: solid 3px var(--white);
+  border-bottom: solid 3px var(--dark-brown);
+  letter-spacing: 8px;
+  padding: 2vh 0px;
+  font-size: 30px;
+  text-align: center;
+  text-decoration: none;
+  background: var(--dark-blue);
+  color: var(--white);
+}
+
+.navbar a:last-child {
+  border-right: none;
+}

@@ -1,4 +1,5 @@
 import "../styles/profile.css";
+import "../styles/background.css";
 import Resume from "./resume.js";
 
 function Profile() {
@@ -23,9 +24,6 @@ function Profile() {
           </div>
         </div>
       </div>
-      <div id='filler' />
-      <div className="background" id="bg2"></div>
-      <div id='filler' />
     </>
   );
 }

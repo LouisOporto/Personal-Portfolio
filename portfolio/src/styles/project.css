@@ -1,0 +1,69 @@
+:root {
+  --dark-blue: #32474d;
+  --light-blue: #849ca2;
+  --dark-brown: #3d2a19;
+  --brown: #3d2a19;
+  --light-brown: #b89e86;
+  --white: #eff8f9;
+}
+
+#projects {
+  background-color: var(--dark-blue);
+  background-image: linear-gradient(rgba(0,0,0,0.56),var(--dark-blue) 20%, var(--light-blue) 90%, rgba(255,255,255,0.1));
+  height: 800px;
+  font-size: 36px;
+  overflow-x: hidden;
+}
+
+#projects h2 {
+  padding: 5px;
+  text-align: center;
+  color: var(--white);
+  letter-spacing: 30px;
+  font-style:normal;
+  font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+#cards {
+  display: grid;
+  position: relative;
+  left: -100px;
+  width: 120%;
+  align-self: center;
+  grid-template-columns: 20% 20% 20% 20% 20% ;
+  text-align: center;
+  font-size: 15px;
+  overflow: hidden;
+}
+
+#button0 {
+  border:none;
+}
+
+#button0 #button {
+  left: 10%;
+}
+
+#button4 {
+  background: transparent;
+  border:none;
+}
+
+#button4 #button {
+  right: 10%;
+}
+
+#button {
+  z-index: 2;
+  bottom: 50%;
+  position: relative;
+  
+}
+
+.projectCard {
+  border: 3px solid var(--light-blue);
+  background: var(--light-blue);
+  border-radius: 40px;
+  margin: 5px;
+  min-height: 400px;
+}

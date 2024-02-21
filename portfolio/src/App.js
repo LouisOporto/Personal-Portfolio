@@ -1,6 +1,7 @@
 import './App.css';
 import Navbar from './components/navbar.js';
 import Profile from './components/profile.js';
+import Project from './components/project.js';
 
 function App() {
 
@@ -8,6 +9,7 @@ function App() {
     <>
       <Navbar />
       <Profile />
+      <Project />
     </>
   );
 }

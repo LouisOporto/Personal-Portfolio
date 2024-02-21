@@ -7,30 +7,6 @@
   --white: #eff8f9;
 }
 
-.background {
-  min-height: 1000px;
-  width: 100%;
-  background-attachment: fixed;
-  background-position: center;
-  background-repeat: no-repeat;
-  background-size: cover;
-}
-
-#bg1 {
-  background-image: url("../assets/images/DSC_9519.JPG");
-  min-height: 900px;
-}
-
-#bg2 {
-  background-image: url("../assets/images/DSC_5822.jpg");
-}
-
-#filler {
-  background-color: var(--dark-brown);
-  height: 300px;
-  font-size: 36px;
-}
-
 .profile {
   position: relative;
   top: 9em;

@@ -1,0 +1,33 @@
+:root {
+  --dark-blue: #32474d;
+  --light-blue: #849ca2;
+  --dark-brown: #3d2a19;
+  --brown: #3d2a19;
+  --light-brown: #b89e86;
+  --white: #eff8f9;
+}
+
+.background {
+  min-height: 1000px;
+  width: 100%;
+  background-attachment: fixed;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+#bg1 {
+  background-image: url("../assets/images/DSC_9519.JPG");
+  min-height: 900px;
+}
+
+#bg2 {
+  background-image: url("../assets/images/Sky_Window-0479.jpg");
+}
+
+#filler {
+  background-color: var(--dark-blue);
+  background-image: linear-gradient(rgba(0,0,0,0.56),var(--dark-blue) 20%, var(--light-blue) 90%, rgba(255,255,255,0.1));
+  height: 600px;
+  font-size: 36px;
+}

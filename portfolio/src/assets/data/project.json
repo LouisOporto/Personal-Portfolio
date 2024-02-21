@@ -1,0 +1,34 @@
+{
+  "projects": [
+    {
+      "name": "Spotify Lyrics Generator",
+      "description": "An app that generates lyrics",
+      "language": "C++, Python, API",
+      "link": "www.google.com"
+    },
+    {
+      "name": "Spotify Lyrics Generator 1",
+      "description": "An app that generates lyrics",
+      "language": "C++, Python, API",
+      "link": "www.google.com"
+    },
+    {
+      "name": "Spotify Lyrics Generator 2",
+      "description": "An app that generates lyrics",
+      "language": "C++, Python, API",
+      "link": "www.google.com"
+    },
+    {
+      "name": "Spotify Lyrics Generator 3",
+      "description": "An app that generates lyrics",
+      "language": "C++, Python, API",
+      "link": "www.google.com"
+    },
+    {
+      "name": "Spotify Lyrics Generator 4",
+      "description": "An app that generates lyrics",
+      "language": "C++, Python, API",
+      "link": "www.google.com"
+    }
+  ]
+}

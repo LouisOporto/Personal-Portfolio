@@ -14,8 +14,9 @@ function Profile() {
             <div id='profile-content'>
               <h2>Louis Oporto</h2>
               <p>
-                Building code line by line. Designing from the bottom up.<br/>
-                This will be a paragraph about me
+                Building something small, to fill the bigger picture. <br/>
+                A developing student leaning into the world of software development. <br/>
+                Looking forward to what's in store...
               </p>
               <Resume />
             </div>

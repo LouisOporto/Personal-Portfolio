@@ -72,8 +72,8 @@
 #profile-content h2 {
   color: var(--white);
   font-size: 40px;
-  letter-spacing: 20px;
-  text-decoration: underline;
+  letter-spacing: 10px;
+  text-decoration: none;
 }
 
 #profile-content p {

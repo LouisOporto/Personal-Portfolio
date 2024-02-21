@@ -14,10 +14,12 @@
   position: fixed;
   top: 0;
   left: 0;
+  z-index: 1;
 }
 
 .navbar a {
   border-right: solid 3px var(--white);
+  border-bottom: solid 3px var(--white);
   letter-spacing: 8px;
   padding: 2vh 0px;
   font-size: 30px;

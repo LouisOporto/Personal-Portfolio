@@ -7,8 +7,7 @@
   --white: #eff8f9;
 }
 
-#background {
-  background-image: url("../assets/images/DSC_9519.JPG");
+.background {
   min-height: 1000px;
   width: 100%;
   background-attachment: fixed;
@@ -17,14 +16,19 @@
   background-size: cover;
 }
 
-#background2 {
+#bg1 {
+  background-image: url("../assets/images/DSC_9519.JPG");
+  min-height: 900px;
+}
+
+#bg2 {
   background-image: url("../assets/images/DSC_5822.jpg");
-  min-height: 1000px;
-  width: 100%;
-  background-attachment: fixed;
-  background-position: center;
-  background-repeat: no-repeat;
-  background-size: cover;
+}
+
+#filler {
+  background-color: var(--dark-brown);
+  height: 300px;
+  font-size: 36px;
 }
 
 .profile {
@@ -47,6 +51,7 @@
   display: block;
   margin-left: auto;
   margin-right: auto;
+  margin-top: 1em;
   width: 500px;
   height: 500px;
   transition: 0.3s;
@@ -56,10 +61,12 @@
   #photo {
     width: 300px;
     height: 300px;
+    margin-top: 4em;
   }
 
   #profile-content {
     overflow-y: hidden;
+    margin-top: 0;
   }
 }
 
@@ -67,6 +74,7 @@
   display: block;
   margin-right: auto;
   transition: 0.3s;
+  margin-top: 4em;
 }
 
 #profile-content h2 {
@@ -84,12 +92,6 @@
   border: var(--light-blue) solid 3px;
   background-color: var(--light-brown);
   border-radius: 20px 20px 20px 20px;
-}
-
-#filler {
-  background-color: var(--light-brown);
-  height: 300px;
-  font-size: 36px;
 }
 
 .resume-link {

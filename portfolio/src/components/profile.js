@@ -5,7 +5,7 @@ function Profile() {
   /* We will include content that is static to the profile. Photo, name, brief intro */
   return (
     <>
-      <div id="background">
+      <div className="background" id="bg1">
         <div className='profile'>
           <div className='profile-section'>
             <div id='photo'></div>
@@ -24,7 +24,7 @@ function Profile() {
         </div>
       </div>
       <div id='filler' />
-      <div id="background2"></div>
+      <div className="background" id="bg2"></div>
       <div id='filler' />
     </>
   );

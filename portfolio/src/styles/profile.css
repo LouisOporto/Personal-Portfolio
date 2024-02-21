@@ -43,7 +43,7 @@
   border: 3px black solid;
   border-radius: 400px;
   background-image: url("../assets/images/person_profile_pic.jpg");
-  background-size:cover;
+  background-size: cover;
   display: block;
   margin-left: auto;
   margin-right: auto;
@@ -54,7 +54,7 @@
 
 @media only screen and (max-width: 1200px) {
   #photo {
-    width:300px;
+    width: 300px;
     height: 300px;
   }
 
@@ -73,7 +73,7 @@
   color: var(--white);
   font-size: 40px;
   letter-spacing: 20px;
-  text-decoration:underline;
+  text-decoration: underline;
 }
 
 #profile-content p {
@@ -87,7 +87,19 @@
 }
 
 #filler {
-  background-color:var(--light-brown);
+  background-color: var(--light-brown);
   height: 300px;
   font-size: 36px;
+}
+
+.resume-link {
+  display: flex;
+  text-align: center;
+  text-decoration: none;
+  color: var(--white);
+  transition: 0.5s;
+}
+
+.resume-link:hover {
+  text-shadow: 2px 2px var(--light-blue);
 }

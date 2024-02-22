@@ -23,8 +23,8 @@
   font-style: normal;
   margin: 100px;
   text-shadow: 5px 3px 3px var(--dark-blue);
-  letter-spacing: 30px;
-  font-size: 36px;
+  letter-spacing: 40px;
+  font-size: 50px;
   font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
 }
 
@@ -38,8 +38,7 @@
 }
 
 .photos {
-  display: block;
-  margin: auto;
+  margin-right: 50px;
   margin-top: 50px;
   height: 500px;
   align-self: center;

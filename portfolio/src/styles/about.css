@@ -11,7 +11,7 @@
   margin-top: -100px;
   background-color: var(--dark-blue);
   background-image: linear-gradient(rgba(255, 255, 255, 0.5), var(--light-blue) 20%, var(--dark-blue) 90%, rgba(0, 0, 0, 0.56));
-  height: 800px;
+  min-height: 1000px;
   font-size: 36px;
   overflow-x: hidden;
 }
@@ -29,11 +29,18 @@
 }
 
 .aboutBlock {
-  display: block;
   background: var(--light-brown);
   border: 3px solid var(--dark-brown);
   border-radius: 30px;
   margin: 30px;
   padding: 15px;
   font-size: 30px;
+}
+
+.photos {
+  display: block;
+  margin: auto;
+  margin-top: 50px;
+  height: 500px;
+  align-self: center;
 }

@@ -1,4 +1,5 @@
 import "../styles/about.css";
+import data from '../assets/data/project.json';
 
 export default function About() {
 
@@ -12,7 +13,9 @@ export default function About() {
           </div>
           <div className="aboutBlock">
           <p>Here are some of my favorites...</p>
-          <img></img>
+          {data.photos.map((item) => (
+            <img src={require("../assets/images/" + item)} alt={item} className="photos"></img>
+          ))}
           </div>
         </div>
       </div>

@@ -14,7 +14,7 @@ export default function About() {
           <div className="aboutBlock">
           <p>Here are some of my favorites...</p>
           {data.photos.map((item) => (
-            <img src={require("../assets/images/" + item)} alt={item} className="photos"></img>
+            <img src={require( "../assets/images/" + item + ".jpg" )} alt={item} className="photos"></img>
           ))}
           </div>
         </div>

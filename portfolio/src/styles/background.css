@@ -23,6 +23,7 @@
 
 #bg2 {
   background-image: url("../assets/images/Sky_Window-0479.jpg");
+  min-height: 1300px;
 }
 
 #filler {

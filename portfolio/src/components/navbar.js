@@ -4,9 +4,9 @@ function Navbar() {
   return (
     <>
       <div className="navbar">
-        <a className="links" href='#project'>Projects</a>
-        <a className="links" href='#work'>Work</a>
-        <a className="links" href='#about'>About</a>
+        <a className="links" href='#projects'>Projects</a>
+        <a className="links" href='#workTitle'>Work</a>
+        <a className="links" href='#abouts'>About</a>
         <div className="dropdown">
           <button className="dropbtn">Contact</button>
           <div className="dropdown-content">

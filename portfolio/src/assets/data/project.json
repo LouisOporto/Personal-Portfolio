@@ -1,34 +1,42 @@
 {
   "projects": [
     {
-      "name": "Spotify Lyrics Generator 1",
-      "description": "An app that generates lyrics 1",
-      "language": "C++, Python, API 1",
-      "link": "www.google.com 1"
+      "name": "Personal Portfolio",
+      "description": "A homage to the personal profile page because I don't have anything else to show",
+      "language": "HTML, Javascript, CSS, ReactJS",
+      "link": "https://github.com/LouisOporto/Personal-Portfolio"
     },
     {
-      "name": "Spotify Lyrics Generator 2",
-      "description": "An app that generates lyrics 2",
-      "language": "C++, Python, API 2",
-      "link": "www.google.com 2"
+      "name": "Spotify Lyrics Generator",
+      "description": "An app that generates lyrics based on API information.",
+      "language": "Python, Spotify",
+      "link": "https://github.com/LouisOporto/Spotify-Lyrics-Generator"
     },
     {
-      "name": "Spotify Lyrics Generator 3",
-      "description": "An app that generates lyrics 3",
-      "language": "C++, Python, API 3",
-      "link": "www.google.com 3"
+      "name": "Atari Breakout",
+      "description": "Recreation of Atari Breakout using SFML in C++.",
+      "language": "C++, SFML",
+      "link": "https://github.com/LouisOporto/AtariBreakout"
     },
     {
-      "name": "Spotify Lyrics Generator 4",
-      "description": "An app that generates lyrics 4",
-      "language": "C++, Python, API 4",
-      "link": "www.google.com 4"
+      "name": "Genshin Showcase (Mudae)",
+      "description": "A project collaboration to showcase your team line up in Genshin Impact",
+      "language": "HTML, Javascript, CSS, ReactJS",
+      "link": "https://github.com/LouisOporto/genshin-mudae-showcase"
     },
     {
-      "name": "Spotify Lyrics Generator 5",
-      "description": "An app that generates lyrics 5",
-      "language": "C++, Python, API 5",
-      "link": "www.google.com 5"
+      "name": "Simple Calculator",
+      "description": "Functional calculator for simple arithmetic",
+      "language": "HTML, Javascript, CSS, ReactJS",
+      "link": "https://github.com/LouisOporto/Excersise6"
+    }
+  ],
+  "work": [
+    {
+      "name": "Company Name",
+      "description": "Basis of employment",
+      "language": "Working Language",
+      "position": "Placeholder"
     }
   ]
 }

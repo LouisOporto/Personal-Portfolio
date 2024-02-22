@@ -36,28 +36,27 @@
   overflow: hidden;
 }
 
-#button0 {
-  border:none;
-}
-
-#button0 #button {
-  left: 10%;
-}
-
-#button4 {
+#buttonleft {
   background: transparent;
   border:none;
 }
 
-#button4 #button {
+#buttonleft #button {
+  left: 10%;
+}
+
+#buttonright {
+  background: transparent;
+  border:none;
+}
+
+#buttonright #button {
   right: 10%;
 }
 
 #button {
-  z-index: 2;
   bottom: 50%;
   position: relative;
-  
 }
 
 .projectCard {

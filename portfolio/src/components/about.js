@@ -12,10 +12,8 @@ export default function About() {
           <p>Outside of CS, my main hobby would be photography. From nature portraits to sport car shots, I try to take a photo of everything that could be shot with a camera.</p>
           </div>
           <div className="aboutBlock">
-          <p>Here are some of my favorites...</p>
-          {data.photos.map((item) => (
-            <img src={require( "../assets/images/" + item + ".jpg" )} alt={item} className="photos"></img>
-          ))}
+            <p>Here are some of my favorites...</p>
+            <img src={require("../assets/images/Gallery.jpg")} alt={"Gallery"} className="photos"></img>
           </div>
         </div>
       </div>

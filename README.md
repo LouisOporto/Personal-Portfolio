@@ -1,6 +1,6 @@
 # Personal Portfolio Project
 
-https://github.com/LouisOporto/Personal-Portfolio
+https://louisoporto.github.io/Personal-Portfolio/
 ## Information
 > Name: Louis Oporto
 >

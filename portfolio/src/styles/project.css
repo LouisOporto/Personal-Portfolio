@@ -29,7 +29,7 @@
 #cards {
   display: grid;
   position: relative;
-  left: -100px;
+  left: -10%;
   width: 120%;
   align-self: center;
   grid-template-columns: 20% 20% 20% 20% 20%;

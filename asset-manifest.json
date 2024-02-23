@@ -1,18 +1,24 @@
 {
   "files": {
     "main.css": "/Personal-Portfolio/static/css/main.3a62fcdd.css",
-    "main.js": "/Personal-Portfolio/static/js/main.92ed3e34.js",
+    "main.js": "/Personal-Portfolio/static/js/main.f966f751.js",
     "static/media/resume.pdf": "/Personal-Portfolio/static/media/resume.6dc5dddd66f02d8bb932.pdf",
-    "static/media/Gallery.jpg": "/Personal-Portfolio/static/media/Gallery.22b3972c43334d931e92.jpg",
+    "static/media/redwood.jpg": "/Personal-Portfolio/static/media/redwood.eb57add0e1e544c57157.jpg",
+    "static/media/night_sky.jpg": "/Personal-Portfolio/static/media/night_sky.0671560d215e4ca2af80.jpg",
+    "static/media/helen.jpg": "/Personal-Portfolio/static/media/helen.59f1d418b721424da00e.jpg",
     "static/media/Sky_Window-0479.jpg": "/Personal-Portfolio/static/media/Sky_Window-0479.60e265aed28d0a07bf4e.jpg",
     "static/media/DSC_9519.JPG": "/Personal-Portfolio/static/media/DSC_9519.101dd1833db16c2c716d.JPG",
+    "static/media/sopi.jpg": "/Personal-Portfolio/static/media/sopi.319bba64dd8f7186c092.jpg",
+    "static/media/911_gt3_rs.jpg": "/Personal-Portfolio/static/media/911_gt3_rs.94c680b17aaf17284bde.jpg",
     "static/media/person_profile_pic.jpg": "/Personal-Portfolio/static/media/person_profile_pic.77ec554bdfb9339d1c67.jpg",
+    "static/media/squirrel.jpg": "/Personal-Portfolio/static/media/squirrel.f31f45793107b1a0c1a8.jpg",
+    "static/media/canyon.jpg": "/Personal-Portfolio/static/media/canyon.b8f673137a58fc89e008.jpg",
     "index.html": "/Personal-Portfolio/index.html",
     "main.3a62fcdd.css.map": "/Personal-Portfolio/static/css/main.3a62fcdd.css.map",
-    "main.92ed3e34.js.map": "/Personal-Portfolio/static/js/main.92ed3e34.js.map"
+    "main.f966f751.js.map": "/Personal-Portfolio/static/js/main.f966f751.js.map"
   },
   "entrypoints": [
     "static/css/main.3a62fcdd.css",
-    "static/js/main.92ed3e34.js"
+    "static/js/main.f966f751.js"
   ]
 }

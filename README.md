@@ -1,15 +1,17 @@
-# General Guide and TODO LIST FOR THIS PROJECT
-1. Navbar
-    1. Section Hop Overs
-    2. Change website to (Contact, About Me, What I like to do)
-2. Picture - ME!
-3. About Me
-4. Contact
-5. Projects
-6. Skills
-7. Resume Access
-    1. Download file
+# Personal Portfolio Project
 
-## Make a guide to explain your process of developing
+## Information
+> Name: Louis Oporto
+>
+> CWID: 886406958
+>
+> email: louisoporto042@csu.fullerton.edu
+>
+> Language: HTML, Javascript, CSS, ReactJS
+>
+> Reference: w3wschools.com for css, javascript reviews
+>
 
-## Other stuff that might be helpful when it comes ot using this app
+
+## Description
+This is a simple creation of a personal portfolio. Using webpage elements, styling and reactjs for some background functionality. Nothing needed to run as the page is setup to be open in the github-pages link.
